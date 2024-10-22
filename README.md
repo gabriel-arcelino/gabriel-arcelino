@@ -1,5 +1,5 @@
 ### Olá! 👋
-Meu nome é Gabriel Arcelino Evangelista, especializado em desenvolvimento Back End e sou apaixonado por automatizar processos.
+Meu nome é Gabriel Arcelino Evangelista, especializado em desenvolvimento Back End e automação de processos.
 
 ## Hard Skills:
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&custom_title=Top%20%Linguagens)
